@@ -11,7 +11,7 @@ var debug = require('debug')('bulas');
 module.exports = function(){
 	var app = express();
 
-	app.set('port', 3001);
+	app.set('port', (process.env.PORT || 5000));
 	// view engine setup
 	app.set('views', './app/views');
 	app.set('view engine', 'jade');
