@@ -1,0 +1,22 @@
+{"__v":0,"_id":{"$oid":"554c1659f39561c3135a19bf"},"cat_fim":"B99","cat_inicio":"A00","descricao":"I - Algumas doenças infecciosas e parasitárias","id":1}
+{"__v":0,"_id":{"$oid":"554c1659f39561c3135a19c0"},"cat_fim":"D48","cat_inicio":"C00","descricao":"II - Neoplasias [tumores]","id":2}
+{"__v":0,"_id":{"$oid":"554c1659f39561c3135a19c1"},"cat_fim":"D89","cat_inicio":"D50","descricao":"III  - Doenças do sangue e dos órgãos hematopoéticos e alguns transtornos imunitários","id":3}
+{"__v":0,"_id":{"$oid":"554c1659f39561c3135a19c2"},"cat_fim":"E90","cat_inicio":"E00","descricao":"IV.  Doenças endócrinas nutricionais e metabólicas","id":4}
+{"__v":0,"_id":{"$oid":"554c1659f39561c3135a19c3"},"cat_fim":"F99","cat_inicio":"F00","descricao":"V - Transtornos mentais e comportamentais","id":5}
+{"__v":0,"_id":{"$oid":"554c1659f39561c3135a19c4"},"cat_fim":"G99","cat_inicio":"G00","descricao":"VI - Doenças do sistema nervoso","id":6}
+{"__v":0,"_id":{"$oid":"554c1659f39561c3135a19c5"},"cat_fim":"H59","cat_inicio":"H00","descricao":"VII - Doenças do olho e anexos","id":7}
+{"__v":0,"_id":{"$oid":"554c1659f39561c3135a19c6"},"cat_fim":"H95","cat_inicio":"H60","descricao":"VIII - Doenças do ouvido e da apófise mastóide","id":8}
+{"__v":0,"_id":{"$oid":"554c1659f39561c3135a19c7"},"cat_fim":"I99","cat_inicio":"I00","descricao":"IX - Doenças do aparelho circulatório","id":9}
+{"__v":0,"_id":{"$oid":"554c1659f39561c3135a19c8"},"cat_fim":"J99","cat_inicio":"J00","descricao":"X - Doenças do aparelho respiratório","id":10}
+{"__v":0,"_id":{"$oid":"554c1659f39561c3135a19c9"},"cat_fim":"K93","cat_inicio":"K00","descricao":"XI - Doenças do aparelho digestivo","id":11}
+{"__v":0,"_id":{"$oid":"554c1659f39561c3135a19ca"},"cat_fim":"L99","cat_inicio":"L00","descricao":"XII - Doenças da pele e do tecido subcutâneo","id":12}
+{"__v":0,"_id":{"$oid":"554c1659f39561c3135a19cb"},"cat_fim":"M99","cat_inicio":"M00","descricao":"XIII - Doenças do sistema osteomuscular e do tecido conjuntivo","id":13}
+{"__v":0,"_id":{"$oid":"554c1659f39561c3135a19cc"},"cat_fim":"N99","cat_inicio":"N00","descricao":"XIV - Doenças do aparelho geniturinário","id":14}
+{"__v":0,"_id":{"$oid":"554c1659f39561c3135a19cd"},"cat_fim":"O99","cat_inicio":"O00","descricao":"XV.  Gravidez parto e puerpério","id":15}
+{"__v":0,"_id":{"$oid":"554c1659f39561c3135a19ce"},"cat_fim":"P96","cat_inicio":"P00","descricao":"XVI - Algumas afecções originadas no período perinatal","id":16}
+{"__v":0,"_id":{"$oid":"554c1659f39561c3135a19cf"},"cat_fim":"Q99","cat_inicio":"Q00","descricao":"XVII - Malformações congênitas, deformidades e anomalias cromossômicas","id":17}
+{"__v":0,"_id":{"$oid":"554c1659f39561c3135a19d0"},"cat_fim":"R99","cat_inicio":"R00","descricao":"XVIII - Sintomas, sinais e achados anormais de exames clínicos e de laboratório, não classificados em outra parte","id":18}
+{"__v":0,"_id":{"$oid":"554c1659f39561c3135a19d1"},"cat_fim":"T98","cat_inicio":"S00","descricao":"XIX - Lesões, envenenamento e algumas outras conseqüências de causas externas","id":19}
+{"__v":0,"_id":{"$oid":"554c1659f39561c3135a19d2"},"cat_fim":"Y98","cat_inicio":"V01","descricao":"XX - Causas externas de morbidade e de mortalidade","id":20}
+{"__v":0,"_id":{"$oid":"554c1659f39561c3135a19d3"},"cat_fim":"Z99","cat_inicio":"Z00","descricao":"XXI - Fatores que influenciam o estado de saúde e o contato com os serviços de saúde","id":21}
+{"__v":0,"_id":{"$oid":"554c1659f39561c3135a19d4"},"cat_fim":"U99","cat_inicio":"U04","descricao":"XXII - Códigos para propósitos especiais","id":22}

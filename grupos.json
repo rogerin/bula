@@ -1,0 +1,275 @@
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066aed"},"cat_fim":"A09","cat_inicio":"A00","descricao":"Doenças infecciosas intestinais","id":1}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066aee"},"cat_fim":"A19","cat_inicio":"A15","descricao":"Tuberculose","id":2}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066aef"},"cat_fim":"A28","cat_inicio":"A20","descricao":"Algumas doenças bacterianas zoonóticas","id":3}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066af0"},"cat_fim":"A49","cat_inicio":"A30","descricao":"Outras doenças bacterianas","id":4}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066af1"},"cat_fim":"A64","cat_inicio":"A50","descricao":"Infecções de transmissão predominantemente sexual","id":5}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066af2"},"cat_fim":"A69","cat_inicio":"A65","descricao":"Outras doenças por espiroquetas","id":6}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066af3"},"cat_fim":"A74","cat_inicio":"A70","descricao":"Outras doenças causadas por clamídias","id":7}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066af4"},"cat_fim":"A79","cat_inicio":"A75","descricao":"Rickettsioses","id":8}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066af5"},"cat_fim":"A89","cat_inicio":"A80","descricao":"Infecções virais do sistema nervoso central","id":9}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066af6"},"cat_fim":"A99","cat_inicio":"A90","descricao":"Febres por arbovírus e febres hemorrágicas virais","id":10}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066af7"},"cat_fim":"B09","cat_inicio":"B00","descricao":"Infecções virais caracterizadas por lesões de pele e mucosas","id":11}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066af8"},"cat_fim":"B19","cat_inicio":"B15","descricao":"Hepatite viral","id":12}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066af9"},"cat_fim":"B24","cat_inicio":"B20","descricao":"Doença pelo vírus da imunodeficiência humana [HIV]","id":13}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066afa"},"cat_fim":"B34","cat_inicio":"B25","descricao":"Outras doenças por vírus","id":14}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066afb"},"cat_fim":"B49","cat_inicio":"B35","descricao":"Micoses","id":15}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066afc"},"cat_fim":"B64","cat_inicio":"B50","descricao":"Doenças devidas a protozoários","id":16}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066afd"},"cat_fim":"B83","cat_inicio":"B65","descricao":"Helmintíases","id":17}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066afe"},"cat_fim":"B89","cat_inicio":"B85","descricao":"Pediculose","id":18}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066aff"},"cat_fim":"B94","cat_inicio":"B90","descricao":"Seqüelas de doenças infecciosas e parasitárias","id":19}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b00"},"cat_fim":"B97","cat_inicio":"B95","descricao":"Agentes de infecções bacterianas","id":20}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b01"},"cat_fim":"B99","cat_inicio":"B99","descricao":"Outras doenças infecciosas","id":21}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b02"},"cat_fim":"C97","cat_inicio":"C00","descricao":"Neoplasias [tumores] malignas(os)","id":22}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b03"},"cat_fim":"C75","cat_inicio":"C00","descricao":"Neoplasias [tumores] malignas(os)","id":23}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b04"},"cat_fim":"C14","cat_inicio":"C00","descricao":"Neoplasias malignas do lábio","id":24}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b05"},"cat_fim":"C26","cat_inicio":"C15","descricao":"Neoplasias malignas dos órgãos digestivos","id":25}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b06"},"cat_fim":"C39","cat_inicio":"C30","descricao":"Neoplasias malignas do aparelho respiratório e dos órgãos intratorácicos","id":26}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b07"},"cat_fim":"C41","cat_inicio":"C40","descricao":"Neoplasias malignas dos ossos e das cartilagens articulares","id":27}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b08"},"cat_fim":"C44","cat_inicio":"C43","descricao":"Melanoma e outras(os) neoplasias malignas da pele","id":28}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b09"},"cat_fim":"C49","cat_inicio":"C45","descricao":"Neoplasias malignas do tecido mesotelial e tecidos moles","id":29}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b0a"},"cat_fim":"C50","cat_inicio":"C50","descricao":"Neoplasias malignas da mama","id":30}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b0b"},"cat_fim":"C58","cat_inicio":"C51","descricao":"Neoplasias malignas dos órgãos genitais femininos","id":31}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b0c"},"cat_fim":"C63","cat_inicio":"C60","descricao":"Neoplasias malignas dos órgãos genitais masculinos","id":32}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b0d"},"cat_fim":"C68","cat_inicio":"C64","descricao":"Neoplasias malignas do trato urinário","id":33}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b0e"},"cat_fim":"C72","cat_inicio":"C69","descricao":"Neoplasias malignas dos olhos","id":34}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b0f"},"cat_fim":"C75","cat_inicio":"C73","descricao":"Neoplasias malignas da tireóide e de outras glândulas endócrinas","id":35}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b10"},"cat_fim":"C80","cat_inicio":"C76","descricao":"Neoplasias malignas de localizações mal definidas","id":36}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b11"},"cat_fim":"C96","cat_inicio":"C81","descricao":"Neoplasias [tumores] malignas(os)","id":37}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b12"},"cat_fim":"C97","cat_inicio":"C97","descricao":"Neoplasias malignas de localizações múltiplas independentes (primárias)","id":38}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b13"},"cat_fim":"D09","cat_inicio":"D00","descricao":"Neoplasias [tumores] in situ","id":39}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b14"},"cat_fim":"D36","cat_inicio":"D10","descricao":"Neoplasias [tumores] benignas(os)","id":40}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b15"},"cat_fim":"D48","cat_inicio":"D37","descricao":"Neoplasias [tumores] de comportamento incerto ou desconhecido","id":41}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b16"},"cat_fim":"D53","cat_inicio":"D50","descricao":"Anemias nutricionais","id":42}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b17"},"cat_fim":"D59","cat_inicio":"D55","descricao":"Anemias hemolíticas","id":43}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b18"},"cat_fim":"D64","cat_inicio":"D60","descricao":"Anemias aplásticas e outras anemias","id":44}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b19"},"cat_fim":"D69","cat_inicio":"D65","descricao":"Defeitos da coagulação","id":45}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b1a"},"cat_fim":"D77","cat_inicio":"D70","descricao":"Outras doenças do sangue e dos órgãos hematopoéticos","id":46}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b1b"},"cat_fim":"D89","cat_inicio":"D80","descricao":"Alguns transtornos que comprometem o mecanismo imunitário","id":47}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b1c"},"cat_fim":"E07","cat_inicio":"E00","descricao":"Transtornos da glândula tireóide","id":48}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b1d"},"cat_fim":"E14","cat_inicio":"E10","descricao":"Diabetes mellitus","id":49}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b1e"},"cat_fim":"E16","cat_inicio":"E15","descricao":"Outros transtornos da regulação da glicose e da secreção pancreática interna","id":50}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b1f"},"cat_fim":"E35","cat_inicio":"E20","descricao":"Transtornos de outras glândulas endócrinas","id":51}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b20"},"cat_fim":"E46","cat_inicio":"E40","descricao":"Desnutrição","id":52}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b21"},"cat_fim":"E64","cat_inicio":"E50","descricao":"Outras deficiências nutricionais","id":53}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b22"},"cat_fim":"E68","cat_inicio":"E65","descricao":"Obesidade e outras formas de hiperalimentação","id":54}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b23"},"cat_fim":"E90","cat_inicio":"E70","descricao":"Distúrbios metabólicos","id":55}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b24"},"cat_fim":"F09","cat_inicio":"F00","descricao":"Transtornos mentais orgânicos","id":56}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b25"},"cat_fim":"F19","cat_inicio":"F10","descricao":"Transtornos mentais e comportamentais devidos ao uso de substância psicoativa","id":57}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b26"},"cat_fim":"F29","cat_inicio":"F20","descricao":"Esquizofrenia","id":58}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b27"},"cat_fim":"F39","cat_inicio":"F30","descricao":"Transtornos do humor [afetivos]","id":59}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b28"},"cat_fim":"F48","cat_inicio":"F40","descricao":"Transtornos neuróticos","id":60}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b29"},"cat_fim":"F59","cat_inicio":"F50","descricao":"Síndromes comportamentais associadas a disfunções fisiológicas e a fatores físicos","id":61}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b2a"},"cat_fim":"F69","cat_inicio":"F60","descricao":"Transtornos da personalidade e do comportamento do adulto","id":62}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b2b"},"cat_fim":"F79","cat_inicio":"F70","descricao":"Retardo mental","id":63}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b2c"},"cat_fim":"F89","cat_inicio":"F80","descricao":"Transtornos do desenvolvimento psicológico","id":64}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b2d"},"cat_fim":"F98","cat_inicio":"F90","descricao":"Transtornos do comportamento e transtornos emocionais que aparecem habitualmente durante a infância ou a adolescência","id":65}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b2e"},"cat_fim":"F99","cat_inicio":"F99","descricao":"Transtorno mental não especificado","id":66}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b2f"},"cat_fim":"G09","cat_inicio":"G00","descricao":"Doenças inflamatórias do sistema nervoso central","id":67}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b30"},"cat_fim":"G13","cat_inicio":"G10","descricao":"Atrofias sistêmicas que afetam principalmente o sistema nervoso central","id":68}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b31"},"cat_fim":"G26","cat_inicio":"G20","descricao":"Doenças extrapiramidais e transtornos dos movimentos","id":69}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b32"},"cat_fim":"G32","cat_inicio":"G30","descricao":"Outras doenças degenerativas do sistema nervoso","id":70}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b33"},"cat_fim":"G37","cat_inicio":"G35","descricao":"Doenças desmielinizantes do sistema nervoso central","id":71}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b34"},"cat_fim":"G47","cat_inicio":"G40","descricao":"Transtornos episódicos e paroxísticos","id":72}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b35"},"cat_fim":"G59","cat_inicio":"G50","descricao":"Transtornos dos nervos","id":73}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b36"},"cat_fim":"G64","cat_inicio":"G60","descricao":"Polineuropatias e outros transtornos do sistema nervoso periférico","id":74}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b37"},"cat_fim":"G73","cat_inicio":"G70","descricao":"Doenças da junção mioneural e dos músculos","id":75}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b38"},"cat_fim":"G83","cat_inicio":"G80","descricao":"Paralisia cerebral e outras síndromes paralíticas","id":76}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b39"},"cat_fim":"G99","cat_inicio":"G90","descricao":"Outros transtornos do sistema nervoso","id":77}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b3a"},"cat_fim":"H06","cat_inicio":"H00","descricao":"Transtornos da pálpebra","id":78}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b3b"},"cat_fim":"H13","cat_inicio":"H10","descricao":"Transtornos da conjuntiva","id":79}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b3c"},"cat_fim":"H22","cat_inicio":"H15","descricao":"Transtornos da esclerótica","id":80}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b3d"},"cat_fim":"H28","cat_inicio":"H25","descricao":"Transtornos do cristalino","id":81}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b3e"},"cat_fim":"H36","cat_inicio":"H30","descricao":"Transtornos da coróide e da retina","id":82}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b3f"},"cat_fim":"H42","cat_inicio":"H40","descricao":"Glaucoma","id":83}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b40"},"cat_fim":"H45","cat_inicio":"H43","descricao":"Transtornos do humor vítreo e do globo ocular","id":84}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b41"},"cat_fim":"H48","cat_inicio":"H46","descricao":"Transtornos do nervo óptico e das vias ópticas","id":85}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b42"},"cat_fim":"H52","cat_inicio":"H49","descricao":"Transtornos dos músculos oculares","id":86}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b43"},"cat_fim":"H54","cat_inicio":"H53","descricao":"Transtornos visuais e cegueira","id":87}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b44"},"cat_fim":"H59","cat_inicio":"H55","descricao":"Outros transtornos do olho e anexos","id":88}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b45"},"cat_fim":"H62","cat_inicio":"H60","descricao":"Doenças do ouvido externo","id":89}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b46"},"cat_fim":"H75","cat_inicio":"H65","descricao":"Doenças do ouvido médio e da mastóide","id":90}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b47"},"cat_fim":"H83","cat_inicio":"H80","descricao":"Doenças do ouvido interno","id":91}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b48"},"cat_fim":"H95","cat_inicio":"H90","descricao":"Outros transtornos do ouvido","id":92}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b49"},"cat_fim":"I02","cat_inicio":"I00","descricao":"Febre reumática aguda","id":93}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b4a"},"cat_fim":"I09","cat_inicio":"I05","descricao":"Doenças reumáticas crônicas do coração","id":94}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b4b"},"cat_fim":"I15","cat_inicio":"I10","descricao":"Doenças hipertensivas","id":95}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b4c"},"cat_fim":"I25","cat_inicio":"I20","descricao":"Doenças isquêmicas do coração","id":96}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b4d"},"cat_fim":"I28","cat_inicio":"I26","descricao":"Doenças cardíaca pulmonar e da circulação pulmonar","id":97}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b4e"},"cat_fim":"I52","cat_inicio":"I30","descricao":"Outras formas de doença do coração","id":98}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b4f"},"cat_fim":"I69","cat_inicio":"I60","descricao":"Doenças cerebrovasculares","id":99}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b50"},"cat_fim":"I79","cat_inicio":"I70","descricao":"Doenças das artérias","id":100}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b51"},"cat_fim":"I89","cat_inicio":"I80","descricao":"Doenças das veias","id":101}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b52"},"cat_fim":"I99","cat_inicio":"I95","descricao":"Outros transtornos","id":102}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b53"},"cat_fim":"J06","cat_inicio":"J00","descricao":"Infecções agudas das vias aéreas superiores","id":103}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b54"},"cat_fim":"J18","cat_inicio":"J09","descricao":"Influenza [gripe] e pneumonia","id":104}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b55"},"cat_fim":"J22","cat_inicio":"J20","descricao":"Outras infecções agudas das vias aéreas inferiores","id":105}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b56"},"cat_fim":"J39","cat_inicio":"J30","descricao":"Outras doenças das vias aéreas superiores","id":106}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b57"},"cat_fim":"J47","cat_inicio":"J40","descricao":"Doenças crônicas das vias aéreas inferiores","id":107}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b58"},"cat_fim":"J70","cat_inicio":"J60","descricao":"Doenças pulmonares devidas a agentes externos","id":108}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b59"},"cat_fim":"J84","cat_inicio":"J80","descricao":"Outras doenças respiratórias que afetam principalmente o interstício","id":109}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b5a"},"cat_fim":"J86","cat_inicio":"J85","descricao":"Afecções necróticas e supurativas das vias aéreas inferiores","id":110}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b5b"},"cat_fim":"J94","cat_inicio":"J90","descricao":"Outras doenças da pleura","id":111}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b5c"},"cat_fim":"J99","cat_inicio":"J95","descricao":"Outras doenças do aparelho respiratório","id":112}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b5d"},"cat_fim":"K14","cat_inicio":"K00","descricao":"Doenças da cavidade oral","id":113}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b5e"},"cat_fim":"K31","cat_inicio":"K20","descricao":"Doenças do esôfago","id":114}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b5f"},"cat_fim":"K38","cat_inicio":"K35","descricao":"Doenças do apêndice","id":115}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b60"},"cat_fim":"K46","cat_inicio":"K40","descricao":"Hérnias","id":116}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b61"},"cat_fim":"K52","cat_inicio":"K50","descricao":"Enterites e colites não-infecciosas","id":117}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b62"},"cat_fim":"K63","cat_inicio":"K55","descricao":"Outras doenças dos intestinos","id":118}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b63"},"cat_fim":"K67","cat_inicio":"K65","descricao":"Doenças do peritônio","id":119}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b64"},"cat_fim":"K77","cat_inicio":"K70","descricao":"Doenças do fígado","id":120}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b65"},"cat_fim":"K87","cat_inicio":"K80","descricao":"Transtornos da vesícula biliar","id":121}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b66"},"cat_fim":"K93","cat_inicio":"K90","descricao":"Outras doenças do aparelho digestivo","id":122}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b67"},"cat_fim":"L08","cat_inicio":"L00","descricao":"Infecções da pele e do tecido subcutâneo","id":123}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b68"},"cat_fim":"L14","cat_inicio":"L10","descricao":"Afecções bolhosas","id":124}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b69"},"cat_fim":"L30","cat_inicio":"L20","descricao":"Dermatite e eczema","id":125}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b6a"},"cat_fim":"L45","cat_inicio":"L40","descricao":"Afecções pápulo-descamativas","id":126}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b6b"},"cat_fim":"L54","cat_inicio":"L50","descricao":"Urticária e eritema","id":127}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b6c"},"cat_fim":"L59","cat_inicio":"L55","descricao":"Transtornos da pele e do tecido subcutâneo relacionados com a radiação","id":128}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b6d"},"cat_fim":"L75","cat_inicio":"L60","descricao":"Afecções dos anexos da pele","id":129}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b6e"},"cat_fim":"L99","cat_inicio":"L80","descricao":"Outras afecções da pele e do tecido subcutâneo","id":130}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b6f"},"cat_fim":"M25","cat_inicio":"M00","descricao":"Artropatias","id":131}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b70"},"cat_fim":"M03","cat_inicio":"M00","descricao":"Artropatias infecciosas","id":132}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b71"},"cat_fim":"M14","cat_inicio":"M05","descricao":"Poliartropatias inflamatórias","id":133}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b72"},"cat_fim":"M19","cat_inicio":"M15","descricao":"Artroses","id":134}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b73"},"cat_fim":"M25","cat_inicio":"M20","descricao":"Outros transtornos articulares","id":135}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b74"},"cat_fim":"M36","cat_inicio":"M30","descricao":"Doenças sistêmicas do tecido conjuntivo","id":136}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b75"},"cat_fim":"M54","cat_inicio":"M40","descricao":"Dorsopatias","id":137}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b76"},"cat_fim":"M43","cat_inicio":"M40","descricao":"Dorsopatias deformantes","id":138}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b77"},"cat_fim":"M49","cat_inicio":"M45","descricao":"Espondilopatias","id":139}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b78"},"cat_fim":"M54","cat_inicio":"M50","descricao":"Outras dorsopatias","id":140}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b79"},"cat_fim":"M79","cat_inicio":"M60","descricao":"Transtornos dos tecidos moles","id":141}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b7a"},"cat_fim":"M63","cat_inicio":"M60","descricao":"Transtornos musculares","id":142}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b7b"},"cat_fim":"M68","cat_inicio":"M65","descricao":"Transtornos das sinóvias e dos tendões","id":143}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b7c"},"cat_fim":"M79","cat_inicio":"M70","descricao":"Outros transtornos dos tecidos moles","id":144}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b7d"},"cat_fim":"M94","cat_inicio":"M80","descricao":"Osteopatias e condropatias","id":145}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b7e"},"cat_fim":"M85","cat_inicio":"M80","descricao":"Transtornos da densidade e da estrutura óssea","id":146}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b7f"},"cat_fim":"M90","cat_inicio":"M86","descricao":"Outras osteopatias","id":147}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b80"},"cat_fim":"M94","cat_inicio":"M91","descricao":"Condropatias","id":148}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b81"},"cat_fim":"M99","cat_inicio":"M95","descricao":"Outros transtornos do sistema osteomuscular e do tecido conjuntivo","id":149}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b82"},"cat_fim":"N08","cat_inicio":"N00","descricao":"Doenças glomerulares","id":150}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b83"},"cat_fim":"N16","cat_inicio":"N10","descricao":"Doenças renais túbulo-intersticiais","id":151}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b84"},"cat_fim":"N19","cat_inicio":"N17","descricao":"Insuficiência renal","id":152}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b85"},"cat_fim":"N23","cat_inicio":"N20","descricao":"Calculose renal","id":153}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b86"},"cat_fim":"N29","cat_inicio":"N25","descricao":"Outros transtornos do rim e do ureter","id":154}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b87"},"cat_fim":"N39","cat_inicio":"N30","descricao":"Outras doenças do aparelho urinário","id":155}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b88"},"cat_fim":"N51","cat_inicio":"N40","descricao":"Doenças dos órgãos genitais masculinos","id":156}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b89"},"cat_fim":"N64","cat_inicio":"N60","descricao":"Doenças da mama","id":157}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b8a"},"cat_fim":"N77","cat_inicio":"N70","descricao":"Doenças inflamatórias dos órgãos pélvicos femininos","id":158}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b8b"},"cat_fim":"N98","cat_inicio":"N80","descricao":"Transtornos não-inflamatórios do trato genital feminino","id":159}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b8c"},"cat_fim":"N99","cat_inicio":"N99","descricao":"Outros transtornos do aparelho geniturinário","id":160}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b8d"},"cat_fim":"O08","cat_inicio":"O00","descricao":"Gravidez que termina em aborto","id":161}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b8e"},"cat_fim":"O16","cat_inicio":"O10","descricao":"Edema","id":162}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b8f"},"cat_fim":"O29","cat_inicio":"O20","descricao":"Outros transtornos maternos relacionados predominantemente com a gravidez","id":163}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b90"},"cat_fim":"O48","cat_inicio":"O30","descricao":"Assistência prestada à mãe por motivos ligados ao feto e à cavidade amniótica e por possíveis problemas relativos ao parto","id":164}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b91"},"cat_fim":"O75","cat_inicio":"O60","descricao":"Complicações do trabalho de parto e do parto","id":165}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b92"},"cat_fim":"O84","cat_inicio":"O80","descricao":"Parto","id":166}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b93"},"cat_fim":"O92","cat_inicio":"O85","descricao":"Complicações relacionadas predominantemente com o puerpério","id":167}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b94"},"cat_fim":"O99","cat_inicio":"O94","descricao":"Outras afecções obstétricas não classificadas em outra parte","id":168}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b95"},"cat_fim":"P04","cat_inicio":"P00","descricao":"Feto e recém-nascido afetados por fatores maternos e por complicações da gravidez","id":169}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b96"},"cat_fim":"P08","cat_inicio":"P05","descricao":"Transtornos relacionados com a duração da gestação e com o crescimento fetal","id":170}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b97"},"cat_fim":"P15","cat_inicio":"P10","descricao":"Traumatismo de parto","id":171}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b98"},"cat_fim":"P29","cat_inicio":"P20","descricao":"Transtornos respiratórios e cardiovasculares específicos do período perinatal","id":172}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b99"},"cat_fim":"P39","cat_inicio":"P35","descricao":"Infecções específicas do período perinatal","id":173}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b9a"},"cat_fim":"P61","cat_inicio":"P50","descricao":"Transtornos hemorrágicos e hematológicos do feto e do recém-nascido","id":174}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b9b"},"cat_fim":"P74","cat_inicio":"P70","descricao":"Transtornos endócrinos e metabólicos transitórios específicos do feto e do recém-nascido","id":175}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b9c"},"cat_fim":"P78","cat_inicio":"P75","descricao":"Transtornos do aparelho digestivo do feto ou do recém-nascido","id":176}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b9d"},"cat_fim":"P83","cat_inicio":"P80","descricao":"Afecções comprometendo o tegumento e a regulação térmica do feto e do recém-nascido","id":177}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b9e"},"cat_fim":"P96","cat_inicio":"P90","descricao":"Outros transtornos originados no período perinatal","id":178}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066b9f"},"cat_fim":"Q07","cat_inicio":"Q00","descricao":"Malformações congênitas do sistema nervoso","id":179}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066ba0"},"cat_fim":"Q18","cat_inicio":"Q10","descricao":"Malformações congênitas do olho","id":180}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066ba1"},"cat_fim":"Q28","cat_inicio":"Q20","descricao":"Malformações congênitas do aparelho circulatório","id":181}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066ba2"},"cat_fim":"Q34","cat_inicio":"Q30","descricao":"Malformações congênitas do aparelho respiratório","id":182}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066ba3"},"cat_fim":"Q37","cat_inicio":"Q35","descricao":"Fenda labial e fenda palatina","id":183}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066ba4"},"cat_fim":"Q45","cat_inicio":"Q38","descricao":"Outras malformações congênitas do aparelho digestivo","id":184}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066ba5"},"cat_fim":"Q56","cat_inicio":"Q50","descricao":"Malformações congênitas dos órgãos genitais","id":185}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066ba6"},"cat_fim":"Q64","cat_inicio":"Q60","descricao":"Malformações congênitas do aparelho urinário","id":186}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066ba7"},"cat_fim":"Q79","cat_inicio":"Q65","descricao":"Malformações e deformidades congênitas do sistema osteomuscular","id":187}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066ba8"},"cat_fim":"Q89","cat_inicio":"Q80","descricao":"Outras malformações congênitas","id":188}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066ba9"},"cat_fim":"Q99","cat_inicio":"Q90","descricao":"Anomalias cromossômicas não classificadas em outra parte","id":189}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066baa"},"cat_fim":"R09","cat_inicio":"R00","descricao":"Sintomas e sinais relativos ao aparelho circulatório e respiratório","id":190}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bab"},"cat_fim":"R19","cat_inicio":"R10","descricao":"Sintomas e sinais relativos ao aparelho digestivo e ao abdome","id":191}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bac"},"cat_fim":"R23","cat_inicio":"R20","descricao":"Sintomas e sinais relativos à pele e ao tecido subcutâneo","id":192}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bad"},"cat_fim":"R29","cat_inicio":"R25","descricao":"Sintomas e sinais relativos aos sistemas nervoso e osteomuscular","id":193}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bae"},"cat_fim":"R39","cat_inicio":"R30","descricao":"Sintomas e sinais relativos ao aparelho urinário","id":194}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066baf"},"cat_fim":"R46","cat_inicio":"R40","descricao":"Sintomas e sinais relativos à cognição","id":195}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bb0"},"cat_fim":"R49","cat_inicio":"R47","descricao":"Sintomas e sinais relativos à fala e à voz","id":196}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bb1"},"cat_fim":"R69","cat_inicio":"R50","descricao":"Sintomas e sinais gerais","id":197}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bb2"},"cat_fim":"R79","cat_inicio":"R70","descricao":"Achados anormais de exames de sangue","id":198}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bb3"},"cat_fim":"R82","cat_inicio":"R80","descricao":"Achados anormais de exames de urina","id":199}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bb4"},"cat_fim":"R89","cat_inicio":"R83","descricao":"Achados anormais de exames e de outros líquidos","id":200}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bb5"},"cat_fim":"R94","cat_inicio":"R90","descricao":"Achados anormais de exames para diagnóstico por imagem e em estudos de função","id":201}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bb6"},"cat_fim":"R99","cat_inicio":"R95","descricao":"Causas mal definidas e desconhecidas de mortalidade","id":202}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bb7"},"cat_fim":"S09","cat_inicio":"S00","descricao":"Traumatismos da cabeça","id":203}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bb8"},"cat_fim":"S19","cat_inicio":"S10","descricao":"Traumatismos do pescoço","id":204}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bb9"},"cat_fim":"S29","cat_inicio":"S20","descricao":"Traumatismos do tórax","id":205}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bba"},"cat_fim":"S39","cat_inicio":"S30","descricao":"Traumatismos do abdome","id":206}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bbb"},"cat_fim":"S49","cat_inicio":"S40","descricao":"Traumatismos do ombro e do braço","id":207}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bbc"},"cat_fim":"S59","cat_inicio":"S50","descricao":"Traumatismos do cotovelo e do antebraço","id":208}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bbd"},"cat_fim":"S69","cat_inicio":"S60","descricao":"Traumatismos do punho e da mão","id":209}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bbe"},"cat_fim":"S79","cat_inicio":"S70","descricao":"Traumatismos do quadril e da coxa","id":210}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bbf"},"cat_fim":"S89","cat_inicio":"S80","descricao":"Traumatismos do joelho e da perna","id":211}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bc0"},"cat_fim":"S99","cat_inicio":"S90","descricao":"Traumatismos do tornozelo e do pé","id":212}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bc1"},"cat_fim":"T07","cat_inicio":"T00","descricao":"Traumatismos envolvendo múltiplas regiões do corpo","id":213}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bc2"},"cat_fim":"T14","cat_inicio":"T08","descricao":"Traumatismos de localização não especificada do tronco","id":214}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bc3"},"cat_fim":"T19","cat_inicio":"T15","descricao":"Efeito da penetração de corpo estranho através de orifício natural","id":215}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bc4"},"cat_fim":"T32","cat_inicio":"T20","descricao":"Queimaduras e corrosões","id":216}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bc5"},"cat_fim":"T25","cat_inicio":"T20","descricao":"Queimaduras e corrosões da superfície externa do corpo","id":217}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bc6"},"cat_fim":"T28","cat_inicio":"T26","descricao":"Queimaduras e corrosões limitadas ao olho e aos órgãos internos","id":218}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bc7"},"cat_fim":"T32","cat_inicio":"T29","descricao":"Queimaduras e corrosões de múltiplas regiões e de regiões não especificadas do corpo","id":219}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bc8"},"cat_fim":"T35","cat_inicio":"T33","descricao":"Geladuras [frostbite]","id":220}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bc9"},"cat_fim":"T50","cat_inicio":"T36","descricao":"Intoxicação por drogas","id":221}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bca"},"cat_fim":"T65","cat_inicio":"T51","descricao":"Efeitos tóxicos de substâncias de origem predominantemente não-medicinal","id":222}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bcb"},"cat_fim":"T78","cat_inicio":"T66","descricao":"Outros efeitos de causas externas e os não especificados","id":223}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bcc"},"cat_fim":"T79","cat_inicio":"T79","descricao":"Algumas complicações precoces de traumatismos","id":224}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bcd"},"cat_fim":"T88","cat_inicio":"T80","descricao":"Complicações de cuidados médicos e cirúrgicos","id":225}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bce"},"cat_fim":"T98","cat_inicio":"T90","descricao":"Seqüelas de traumatismos","id":226}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bcf"},"cat_fim":"X59","cat_inicio":"V01","descricao":"Acidentes","id":227}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bd0"},"cat_fim":"V99","cat_inicio":"V01","descricao":"Acidentes de transporte","id":228}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bd1"},"cat_fim":"V09","cat_inicio":"V01","descricao":"Pedestre traumatizado em um acidente de transporte","id":229}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bd2"},"cat_fim":"V19","cat_inicio":"V10","descricao":"Ciclista traumatizado em um acidente de transporte","id":230}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bd3"},"cat_fim":"V29","cat_inicio":"V20","descricao":"Motociclista traumatizado em um acidente de transporte","id":231}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bd4"},"cat_fim":"V39","cat_inicio":"V30","descricao":"Ocupante de triciclo motorizado traumatizado em um acidente de transporte","id":232}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bd5"},"cat_fim":"V49","cat_inicio":"V40","descricao":"Ocupante de um automóvel traumatizado em um acidente de transporte","id":233}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bd6"},"cat_fim":"V59","cat_inicio":"V50","descricao":"Ocupante de uma caminhonete traumatizado em um acidente de transporte","id":234}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bd7"},"cat_fim":"V69","cat_inicio":"V60","descricao":"Ocupante de um veículo de transporte pesado traumatizado em um acidente de transporte","id":235}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bd8"},"cat_fim":"V79","cat_inicio":"V70","descricao":"Ocupante de um ônibus traumatizado em um acidente de transporte","id":236}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bd9"},"cat_fim":"V89","cat_inicio":"V80","descricao":"Outros acidentes de transporte terrestre","id":237}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bda"},"cat_fim":"V94","cat_inicio":"V90","descricao":"Acidentes de transporte por água","id":238}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bdb"},"cat_fim":"V97","cat_inicio":"V95","descricao":"Acidentes de transporte aéreo e espacial","id":239}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bdc"},"cat_fim":"V99","cat_inicio":"V98","descricao":"Outros acidentes de transporte e os não especificados","id":240}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bdd"},"cat_fim":"X59","cat_inicio":"W00","descricao":"Outras causas externas de traumatismos acidentais","id":241}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bde"},"cat_fim":"W19","cat_inicio":"W00","descricao":"Quedas","id":242}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bdf"},"cat_fim":"W49","cat_inicio":"W20","descricao":"Exposição a forças mecânicas inanimadas","id":243}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066be0"},"cat_fim":"W64","cat_inicio":"W50","descricao":"Exposição a forças mecânicas animadas","id":244}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066be1"},"cat_fim":"W74","cat_inicio":"W65","descricao":"Afogamento e submersão acidentais","id":245}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066be2"},"cat_fim":"W84","cat_inicio":"W75","descricao":"Outros riscos acidentais à respiração","id":246}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066be3"},"cat_fim":"W99","cat_inicio":"W85","descricao":"Exposição à corrente elétrica","id":247}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066be4"},"cat_fim":"X09","cat_inicio":"X00","descricao":"Exposição à fumaça","id":248}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066be5"},"cat_fim":"X19","cat_inicio":"X10","descricao":"Contato com uma fonte de calor ou com substâncias quentes","id":249}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066be6"},"cat_fim":"X29","cat_inicio":"X20","descricao":"Contato com animais e plantas venenosos","id":250}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066be7"},"cat_fim":"X39","cat_inicio":"X30","descricao":"Exposição às forças da natureza","id":251}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066be8"},"cat_fim":"X49","cat_inicio":"X40","descricao":"Envenenamento [intoxicação] acidental por e exposição à substâncias nocivas","id":252}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066be9"},"cat_fim":"X57","cat_inicio":"X50","descricao":"Excesso de esforços","id":253}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bea"},"cat_fim":"X59","cat_inicio":"X58","descricao":"Exposição acidental a outros fatores e aos não especificados","id":254}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066beb"},"cat_fim":"X84","cat_inicio":"X60","descricao":"Lesões autoprovocadas intencionalmente","id":255}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bec"},"cat_fim":"Y09","cat_inicio":"X85","descricao":"Agressões","id":256}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bed"},"cat_fim":"Y34","cat_inicio":"Y10","descricao":"Eventos (fatos) cuja intenção é indeterminada","id":257}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bee"},"cat_fim":"Y36","cat_inicio":"Y35","descricao":"Intervenções legais e operações de guerra","id":258}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bef"},"cat_fim":"Y84","cat_inicio":"Y40","descricao":"Complicações de assistência médica e cirúrgica","id":259}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bf0"},"cat_fim":"Y59","cat_inicio":"Y40","descricao":"Efeitos adversos de drogas","id":260}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bf1"},"cat_fim":"Y69","cat_inicio":"Y60","descricao":"Acidentes ocorridos em pacientes durante a prestação de cuidados médicos e cirúrgicos","id":261}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bf2"},"cat_fim":"Y82","cat_inicio":"Y70","descricao":"Incidentes adversos durante atos diagnósticos ou terapêuticos associados ao uso de dispositivos (aparelhos) médicos","id":262}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bf3"},"cat_fim":"Y84","cat_inicio":"Y83","descricao":"Reação anormal em paciente ou complicação tardia causadas por procedimentos cirúrgicos e outros procedimentos médicos sem menção de acidente ao tempo do procedimento","id":263}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bf4"},"cat_fim":"Y89","cat_inicio":"Y85","descricao":"Seqüelas de causas externas de morbidade e de mortalidade","id":264}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bf5"},"cat_fim":"Y98","cat_inicio":"Y90","descricao":"Fatores suplementares relacionados com as causas de morbidade e de mortalidade classificados em outra parte","id":265}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bf6"},"cat_fim":"Z13","cat_inicio":"Z00","descricao":"Pessoas em contato com os serviços de saúde para exame e investigação","id":266}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bf7"},"cat_fim":"Z29","cat_inicio":"Z20","descricao":"Pessoas com riscos potenciais à saúde relacionados com doenças transmissíveis","id":267}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bf8"},"cat_fim":"Z39","cat_inicio":"Z30","descricao":"Pessoas em contato com os serviços de saúde em circunstâncias relacionadas com a reprodução","id":268}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bf9"},"cat_fim":"Z54","cat_inicio":"Z40","descricao":"Pessoas em contato com os serviços de saúde para procedimentos e cuidados específicos","id":269}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bfa"},"cat_fim":"Z65","cat_inicio":"Z55","descricao":"Pessoas com riscos potenciais à saúde relacionados com circunstâncias socioeconômicas e psicossociais","id":270}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bfb"},"cat_fim":"Z76","cat_inicio":"Z70","descricao":"Pessoas em contato com os serviços de saúde em outras circunstâncias","id":271}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bfc"},"cat_fim":"Z99","cat_inicio":"Z80","descricao":"Pessoas com riscos potenciais à saúde relacionados com história familiar e pessoal e algumas afecções que influenciam o estado de saúde","id":272}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bfd"},"cat_fim":"U04","cat_inicio":"U04","descricao":"Designação provisória de novas doenças de etiologia incerta","id":273}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bfe"},"cat_fim":"U89","cat_inicio":"U80","descricao":"Agentes bacterianos resistentes a antibióticos","id":274}
+{"__v":0,"_id":{"$oid":"554c1a8ea2e7ba1d30066bff"},"cat_fim":"U99","cat_inicio":"U99","descricao":"CID 10ª Revisão não disponível","id":275}

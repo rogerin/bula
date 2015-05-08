@@ -11,20 +11,17 @@ var debug = require('debug')('bulas');
 module.exports = function(){
 	var app = express();
 
-	app.set('port', (process.env.PORT || 5000));
+	app.set('port', (process.env.PORT || 3001));
 	// view engine setup
 	app.set('views', './app/views');
 	app.set('view engine', 'jade');
 	
-
-
-	// uncomment after placing your favicon in /public
-	//app.use(favicon(__dirname + '/public/favicon.ico'));
 	app.use(logger('dev'));
 	app.use(bodyParser.json());
 	app.use(bodyParser.urlencoded({ extended: false }));
 	app.use(cookieParser());
 	app.use(express.static('public'));
+	
 
 	load('models', {cwd: 'app'})
 	    .then('controllers')
